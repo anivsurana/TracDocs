@@ -4,7 +4,7 @@
 TracDocs is an innovative application designed to provide seamless live collaboration and document viewing, similar to Google Docs. Leveraging cutting-edge technologies, TracDocs ensures a modern, responsive, and efficient user experience suitable for both individual and enterprise use.
 
 ## The Mission
-The mission of TracDocs was to create a robust, user-friendly document collaboration tool that combines the best of modern web technologies to offer real-time editing and seamless user experience. The goal was to build a platform that could support multiple users collaborating on documents simultaneously with high performance and reliability (similar to Google Docs, but minimalistic and with dark mode :) )
+The mission of TracDocs was to create a robust, user-friendly document collaboration tool that combines the best of modern web technologies to offer real-time editing and seamless user experience. The goal was to build a platform that could support multiple users collaborating on documents simultaneously with high performance and reliability (similar to Google Docs, but minimalistic and dark mode :) )
 
 ## The Process
 To achieve this mission, we followed a systematic approach that involved selecting the right technologies, designing an intuitive user interface, and implementing robust features. The process included:
